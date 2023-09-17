@@ -4,6 +4,14 @@ Maestro is a groundbreaking language learning platform powered by OpenAI's ChatG
 
 ---
 
+## 🎥 Project Demo
+
+Watch a quick demonstration of the Maestro platform in action:
+
+[Watch the Demo](https://drive.google.com/file/d/1anLqS5yg5pXL7_emzARPAKpmtZbR7aTa/view?usp=sharing)
+
+---
+
 > **🔔 Note:** The details of Maestro's implementation are kept confidential to preserve the uniqueness of the project. I am happy to offer a private demo. Feel free to get in touch!
 
 ---
